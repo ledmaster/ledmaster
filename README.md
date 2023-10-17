@@ -1,5 +1,5 @@
 
-## Hi, I am Mario Filho
+## 👋 Hi, I am Mario Filho
 
 I'm a self-taught machine learning geek who's turned a fascination with computer science into a pretty cool career. 
 
